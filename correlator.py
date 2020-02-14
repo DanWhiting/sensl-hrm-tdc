@@ -15,16 +15,6 @@ import os
 Author - Daniel J. Whiting 
 Date modified - 10/08/2017
 Modifications/comments by Renju S. Mathew
-
-A python GUI for performing photon count correlation measurements with
-the HRMTime module manufactured by SensL.
-
---- Installation ---
-Requires standard python 32 bit installation including numpy, matplotlib
-and wx packages.
-
---- Usage ---
---- Changelog ---
 '''
 
 def bindata(x,y,binfac=0):

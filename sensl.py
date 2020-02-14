@@ -5,15 +5,6 @@ import numpy as np
 ''' 
 Author - Daniel J. Whiting 
 Date modified - 10/08/2017
-
-A python wrapper for the HRMTime module manufactured by SensL.
-
---- Installation ---
-Requires standard python 32 bit installation including numpy and 
-ctypes packages.
-Update SENSL variable to location of sensL HRM_TDC drivers
---- Usage ---
---- Changelog ---
 '''
 
 class HRMTimeAPI():
